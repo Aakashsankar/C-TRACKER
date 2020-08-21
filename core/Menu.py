@@ -40,7 +40,16 @@ from core.Logger import Red
 banner = """
 {0} 
 
-{1} Retrieve IP Geolocation information from ip-api.com
+{1} Recoded by soul hacker 
+
+                      888                             888"                                                                  888"                       
+                      888                             888"                        
+       .d8888b       888888 888d888 8888b.   .d8888b  888  888  .d88b.   888d888" 
+      "d88P*          888    888P*      *88b d88P*    888 88P  d8P  Y8b  888P"   
+      "888     888888 888    888    .d888888 888      888888K  88888888  888"     
+      "Y88b.          Y88b.  888    888  888 Y88b.    888 *88b Y8b.      888"     
+      "*Y8888P        *Y888  888    *Y888888 *Y8888P  888  888  *Y8888   888"   
+                                                                      
 {1} Copyright (c) {2} {3} ({4})
 {1} ip-api.com service will automatically ban any IP addresses doing over 150 requests per minute.
 
